@@ -1,5 +1,3 @@
-# carlosesh.github.io
-
 # Welcome to my GitHub Page!
 
 Hi dear Reader! 
