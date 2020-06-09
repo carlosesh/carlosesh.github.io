@@ -27,7 +27,7 @@ My professional achievements include:
 2. A web application written in python + flask + javascript. This application let's you buy stocks and sell them with real time values, it will also store your transaction history!
 
 ### [Forensic Image Recovery](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
-3. My own implementation of forensic image recovery, the only thing you need is the raw file from your card and it will recover every image that has been "deleted" in reality the image is not deleted, what happens is that those bits are not accessible any longer, so the next time you take photos it just overwrites those already occupied spaces in memory with your new image, but if you just deleted your photos and you want all of them back, just use my implementation from [here] (https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
+3. My own implementation of forensic image recovery, the only thing you need is the raw file from your card and it will recover every image that has been "deleted" in reality the image is not deleted, what happens is that those bits are not accessible any longer, so the next time you take photos it just overwrites those already occupied spaces in memory with your new image, but if you just deleted your photos and you want all of them back, just use my implementation from [here](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
 
 ### [Speller](https://github.com/carlosesh/cs50/tree/master/pset5/speller)
 4. An speller program which checks whole scripts, like a movie script that you wrote to present it to someone, or poem, or anything at all! Just give it some text and a bigger dictionary if you desire. and In a matter of seconds it will go through it all and tell you your mistakes.
@@ -43,11 +43,11 @@ My professional achievements include:
 
 ## Experience
 
-**EPAM Systems Inc. @Mastercard** 
+### EPAM Systems Inc. @Mastercard
 *May 2018 - Present*
 
-**Hexaware Technologies Inc.**
+### Hexaware Technologies Inc.
 *February 2017 - May 2018*
 
-**Softtek**
+### Softtek
 *May 2015 - January 2017*
