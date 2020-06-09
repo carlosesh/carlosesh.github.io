@@ -46,41 +46,8 @@ This is just basically my playground to try different stuff related to testing f
 ### EPAM Systems Inc. @Mastercard
 *May 2018 - Present*
 
-#### Responsibilities 
-* Design and implementation of Test Harness
-* Design and implementation oc CI/CD environments
-
-#### Tech Stack
-* Selenium WebDriver
-* Java
-* Rest Assured
-* Git
-* Postman
-* Jenkins
-* Oracle RDBMS
-* IntelliJ IDEA
-* Cypress
-* Junit and TestNG
-
 ### Hexaware Technologies Inc.
 *February 2017 - May 2018*
-
-#### Responsibilities 
-* Design and implementation of Test Harness
-* Design and implementation of CI/CD environments
-
-#### Tech Stack
-* Selenium WebDriver
-* Java
-* C#
-* Rest Assured
-* Git
-* Postman
-* Jenkins & TeamCity
-* Oracle RDBMS
-* IntelliJ IDEA
-* Cypress
-* Junit and TestNG
 
 ### Softtek
 *May 2015 - January 2017*
