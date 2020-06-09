@@ -115,5 +115,5 @@ This is just basically my playground to try different stuff related to testing f
 * [Testing from the Inside: Unit Testing Edition.](https://testautomationu.applitools.com/unit-testing/) 
 * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
-## Contact :email:
+## Contact
 e-mail: carlosesh@outlook.com
