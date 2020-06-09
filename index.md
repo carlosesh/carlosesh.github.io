@@ -54,13 +54,16 @@ This is just basically my playground to try different stuff related to testing f
 
 ## Continuous learning
 
-### Harvard CS50's Introduction to Computer Science (2020)
-### Data Structures and Algorithms by University of California San Diego National Research University Higher School of Economics. (2019)
-### Testing from the Inside: Unit Testing Edition (2019). 
-### Full Stack Web Apps with Meteor and React (2019).
-### How to win coding competitions: secrets of champions (EDX & ITMO, 2016)
-### Selenium WebDriver with Java – Novice to Ninja + Interview (Udemy, 2016) 
-### Appium (Selenium)-Mobile Automation Testing From Scratch (Udemy, 2016)
+* [Harvard CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+* [Data Structures and Algorithms by University of California San Diego National Research University Higher School of Economics.](https://www.coursera.org/specializations/data-structures-algorithms)
+* [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
+* [Jenkins Continuous Integration Bootcamp](https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/)
+* [Full Stack Web Apps with Meteor and React.](www.udemy.com)
+* [How to win coding competitions: secrets of champions (EDX & ITMO)](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champion)
+* [Selenium WebDriver with Java – Novice to Ninja + Interview.](https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j/)
+* [Appium (Selenium)-Mobile Automation Testing From Scratch.](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)
+* [Testing from the Inside: Unit Testing Edition.](https://testautomationu.applitools.com/unit-testing/) 
+* [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 ## Contact :email:
 e-mail: carlosesh@outlook.com
