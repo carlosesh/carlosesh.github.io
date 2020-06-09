@@ -52,7 +52,7 @@ This is just basically my playground to try different stuff related to testing f
 ### Softtek
 *May 2015 - January 2017*
 
-## Continuous learning
+## Continuous learning :closed_book:
 
 * [Harvard CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [Data Structures and Algorithms by University of California San Diego National Research University Higher School of Economics.](https://www.coursera.org/specializations/data-structures-algorithms)
