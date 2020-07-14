@@ -23,7 +23,7 @@ My professional achievements include:
 ### [Link Shortener](https://less-lnk.herokuapp.com/) :computer:
 A web application written using Meteor, Mongo, Node and React -> this application is a link shrortener and will even count the tiems that you visited the link and if you share it with someone else, you will also know if they have visitied too as it tracks visits. [And the code for that app here!](https://github.com/carlosesh/Lnk-Shortner)
 
-### [Buy/Sell Stocks](https://github.com/carlosesh/cs50/tree/master/pset8/finance) :dollar:
+### [Buy/Sell Stocks](https://github.com/carlosesh/finance) :dollar:
 A web application written in python + flask + javascript. This application let's you buy stocks and sell them with real time values, it will also store your transaction history!
 
 ### [Forensic Image Recovery](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c) :mag:
