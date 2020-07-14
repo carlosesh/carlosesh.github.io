@@ -52,6 +52,21 @@ This is just basically my playground to try different stuff related to testing f
 ### Softtek
 *May 2015 - January 2017*
 
+## Tech Stack
+* Java
+* Javascript
+* Python
+* C
+* MySql
+* Sqlite
+* Flask
+* MongoDB
+* RestAssured
+* Selenium
+* Cypress
+* Postman
+* Jenkins
+
 ## Continuous learning :closed_book:
 
 * [Harvard CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
