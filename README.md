@@ -65,10 +65,10 @@ This is just basically my playground to try different stuff related to testing f
 * Flask
 * MongoDB
 * RestAssured
-* Selenium
+* Selenium Webdriver
 * Cypress
 * Postman
-* Jenkins
+* Jenkins/Teamcity/Gerrit
 
 ## Continuous learning :closed_book:
 
