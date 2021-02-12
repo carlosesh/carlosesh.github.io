@@ -43,8 +43,11 @@ This is just basically my playground to try different stuff related to testing f
 
 ## Experience
 
+### EPAM Systems Inc. @Bridgewater Associates
+*September 2020 - Current*
+
 ### EPAM Systems Inc. @Mastercard
-*May 2018 - Present*
+*May 2018 - June 2020*
 
 ### Hexaware Technologies Inc.
 *February 2017 - May 2018*
