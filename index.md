@@ -20,22 +20,22 @@ My professional achievements include:
 
 ## Interesting Stuff I made!
 
-### [Link Shortener](https://less-lnk.herokuapp.com/)
+### [Link Shortener](https://less-lnk.herokuapp.com/) :computer:
 A web application written using Meteor, Mongo, Node and React -> this application is a link shrortener and will even count the tiems that you visited the link and if you share it with someone else, you will also know if they have visitied too as it tracks visits. [And the code for that app here!](https://github.com/carlosesh/Lnk-Shortner)
 
-### [Buy/Sell Stocks](https://github.com/carlosesh/cs50/tree/master/pset8/finance)
+### [Buy/Sell Stocks](https://github.com/carlosesh/finance) :dollar:
 A web application written in python + flask + javascript. This application let's you buy stocks and sell them with real time values, it will also store your transaction history!
 
-### [Forensic Image Recovery](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
+### [Forensic Image Recovery](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c) :mag:
 My own implementation of forensic image recovery, the only thing you need is the raw file from your card and it will recover every image that has been "deleted" in reality the image is not deleted, what happens is that those bits are not accessible any longer, so the next time you take photos it just overwrites those already occupied spaces in memory with your new image, but if you just deleted your photos and you want all of them back, just use my implementation from [here](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
 
-### [Speller](https://github.com/carlosesh/cs50/tree/master/pset5/speller)
+### [Speller](https://github.com/carlosesh/cs50/tree/master/pset5/speller) :page_facing_up:
 An speller *(seriously?)* program which checks whole scripts, like a movie script that you wrote to present it to someone, or poem, or anything at all! Just give it some text and a bigger dictionary if you desire. and In a matter of seconds it will go through it all and tell you your mistakes.
 
-### [DNA checker](https://github.com/carlosesh/cs50/tree/master/pset6/dna)
+### [DNA checker](https://github.com/carlosesh/cs50/tree/master/pset6/dna) :syringe:
 Assume you have received a sample of DNA and you calculate the nucleotid chains contained in the dNA, once you have that you need to compare against a set of existing results to see if there's a match, well, this is doing that, this actually how forensics match your DNA against a existing data for any number of purposes.
 
-### [Score Keeper](https://github.com/carlosesh/Lnk-Shortner)
+### [Score Keeper](https://github.com/carlosesh/Lnk-Shortner) :soccer:
 An application which you can feed different participants and their respective rank according to their respective points. Pretty easy, was one of my first adventures in development.
 
 ### [Galen Framework](https://github.com/carlosesh/JUnit-GalenFramework)
@@ -43,8 +43,11 @@ This is just basically my playground to try different stuff related to testing f
 
 ## Experience
 
+### EPAM Systems Inc. @Bridgewater Associates
+*September 2020 - Current*
+
 ### EPAM Systems Inc. @Mastercard
-*May 2018 - Present*
+*May 2018 - June 2020*
 
 ### Hexaware Technologies Inc.
 *February 2017 - May 2018*
@@ -52,24 +55,22 @@ This is just basically my playground to try different stuff related to testing f
 ### Softtek
 *May 2015 - January 2017*
 
-#### Responsibilities 
-* Design and implementation of Test Harness
-* Design and implementation of CI/CD environments
-
-#### Tech Stack
-* Selenium WebDriver
+## Tech Stack
 * Java
-* C#
-* Rest Assured
-* Git
-* Postman
-* Jenkins & TeamCity
-* Oracle RDBMS
-* IntelliJ IDEA
+* Javascript
+* Python
+* C
+* MySql
+* Sqlite
+* Flask
+* MongoDB
+* RestAssured
+* Selenium Webdriver
 * Cypress
-* Junit and TestNG
+* Postman
+* Jenkins/Teamcity/Gerrit
 
-## Continuous learning
+## Continuous learning :closed_book:
 
 * [Harvard CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [Data Structures and Algorithms by University of California San Diego National Research University Higher School of Economics.](https://www.coursera.org/specializations/data-structures-algorithms)
@@ -82,5 +83,5 @@ This is just basically my playground to try different stuff related to testing f
 * [Testing from the Inside: Unit Testing Edition.](https://testautomationu.applitools.com/unit-testing/) 
 * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
-## Contact
+## Contact :email:
 e-mail: carlosesh@outlook.com
