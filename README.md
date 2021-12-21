@@ -43,8 +43,11 @@ This is just basically my playground to try different stuff related to testing f
 
 ## Experience
 
+### EPAM Systems Inc.
+*May 2018 - Current*
+
 ### EPAM Systems Inc. @Bridgewater Associates
-*September 2020 - Current*
+*September 2020 - December 2021*
 
 ### EPAM Systems Inc. @Mastercard
 *May 2018 - June 2020*
@@ -82,6 +85,13 @@ This is just basically my playground to try different stuff related to testing f
 * [Appium (Selenium)-Mobile Automation Testing From Scratch.](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)
 * [Testing from the Inside: Unit Testing Edition.](https://testautomationu.applitools.com/unit-testing/) 
 * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/)
+* [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/3NGWDZDF9CEN)
+* [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/6A4SCM38U3WY)
+* [Programming for Everybody (Getting Started with Python)](http://coursera.org/verify/J68N3BVPPNTY)
+* [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/Z3DMTQ33N5Q5)
+* [Jenkins in Docker: Slack Notifications & Build Monitor View](https://www.coursera.org/account/accomplishments/verify/DQF2SXGWND2S)
+* [Jenkins Pipeline: Declarative and IaC approaches for DevOps](https://www.coursera.org/account/accomplishments/verify/PE9R3W6UFKHT)
+* [Jenkins : Automating your delivery pipeline](https://www.coursera.org/account/accomplishments/verify/2EQNW7PR4E4B)
 
 ## Contact :email:
 e-mail: carlosesh@outlook.com
