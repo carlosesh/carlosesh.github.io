@@ -4,7 +4,7 @@ Hi dear Reader!
 
 I'm Carlos Sanchez and I'm very pleased that you landed on this page! 
 
-On the following couple of lines you'll find my personal achievements, past experience and personal projects (you can consider this a resume for the sake of simplicity :))!
+On the following couple of lines you'll find my personal achievements, past experience and personal projects (you can consider this a resume for the sake of simplicity.
 
 ## About me
 
