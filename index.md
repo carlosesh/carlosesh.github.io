@@ -44,23 +44,23 @@ This is just basically my playground to try different stuff related to testing f
 ## Experience
 
 ### EPAM Systems Inc.
-## Senior Software Engineer in Test
+#### Senior Software Engineer in Test
 *May 2018 - Current*
 
 ### EPAM Systems Inc. @Bridgewater Associates
-## Senior Software Engineer in Test
+#### Senior Software Engineer in Test
 *September 2020 - December 2021*
 
 ### EPAM Systems Inc. @Mastercard
-## Senior Software Engineer in Test
+#### Senior Software Engineer in Test
 *May 2018 - June 2020*
 
 ### Hexaware Technologies Inc.
-## Software Developer Engineer in Test
+#### Software Developer Engineer in Test
 *February 2017 - May 2018*
 
 ### Softtek
-## Software Engineer in Test
+#### Software Engineer in Test
 *May 2015 - January 2017*
 
 ## Tech Stack
