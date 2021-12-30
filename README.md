@@ -4,7 +4,7 @@ Hi dear Reader!
 
 I'm Carlos Sanchez and I'm very pleased that you landed on this page! 
 
-On the following couple of lines you'll find my personal achievements, past experience and personal projects (you can consider this a resume for the sake of simplicity :))!
+On the following couple of lines you'll find my personal achievements, past experience and personal projects (you can consider this a resume for the sake of simplicity.
 
 ## About me
 
@@ -44,18 +44,23 @@ This is just basically my playground to try different stuff related to testing f
 ## Experience
 
 ### EPAM Systems Inc.
+#### Senior Software Engineer in Test
 *May 2018 - Current*
 
 ### EPAM Systems Inc. @Bridgewater Associates
+#### Senior Software Engineer in Test
 *September 2020 - December 2021*
 
 ### EPAM Systems Inc. @Mastercard
+#### Senior Software Engineer in Test
 *May 2018 - June 2020*
 
 ### Hexaware Technologies Inc.
+#### Software Developer Engineer in Test
 *February 2017 - May 2018*
 
 ### Softtek
+#### Software Engineer in Test
 *May 2015 - January 2017*
 
 ## Tech Stack
