@@ -41,6 +41,14 @@ An application which you can feed different participants and their respective ra
 ### [Galen Framework](https://github.com/carlosesh/JUnit-GalenFramework)
 This is just basically my playground to try different stuff related to testing frameworks.
 
+## Programming Problems
+
+### [Python](https://github.com/carlosesh/python_solutions)
+Here I post the solutions to problems I currently solve in python, just open it and look into it! I'm adding more every week, so far I have solved problems from
+* leetcode
+* codewars
+* edabit
+
 ## Experience
 
 ### EPAM Systems Inc.
