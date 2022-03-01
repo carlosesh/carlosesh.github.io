@@ -21,10 +21,10 @@ My professional achievements include:
 ## Interesting Stuff I made!
 
 ### [FrameworkX - An skeleton for E2E Testing](https://github.com/carlosesh/FrameworkX) :computer:
-An Automation Framework, this automation framework contains some of the best practices to Test UI/API, in this case I'm testting an amazon workflow where I perform some actions, retrieve data using an api call and then publish the results as part of CI/CD process.
+An Automation Framework, this automation framework contains some of the best practices to Test UI/API, in this case I'm testing an amazon workflow where I perform some actions, retrieve data using an api call and then publish the results as part of CI/CD process. Tools used: Java/Selenium/RestAssured/TestNg
 
 ### [Link Shortener](https://less-lnk.herokuapp.com/) :computer:
-A web application written using Meteor, Mongo, Node and React -> this application is a link shrortener and will even count the tiems that you visited the link and if you share it with someone else, you will also know if they have visitied too as it tracks visits. [And the code for that app here!](https://github.com/carlosesh/Lnk-Shortner)
+A web application written using Meteor, Mongo, Node and React -> this application is a link shrortener and will even count the times that you visited the link and if you share it with someone else, you will also know if they have visitied too as it tracks visits. [And the code for that app here!](https://github.com/carlosesh/Lnk-Shortner)
 
 ### [Buy/Sell Stocks](https://github.com/carlosesh/finance) :dollar:
 A web application written in python + flask + javascript. This application let's you buy stocks and sell them with real time values, it will also store your transaction history!
