@@ -20,7 +20,7 @@ My professional achievements include:
 
 ## Interesting Stuff I made!
 
-### [FrameworkX - An skeleton for E2E Testing](https://github.com/carlosesh/FrameworkX) :computer:
+### [FrameworkX - An skeleton for E2E Testing](https://github.com/carlosesh/FrameworkX) :fireworks:
 An Automation Framework, this automation framework contains some of the best practices to Test UI/API, in this case I'm testing an amazon workflow where I perform some actions, retrieve data using an api call and then publish the results as part of CI/CD process. Tools used: Java/Selenium/RestAssured/TestNg
 
 ### [Link Shortener](https://less-lnk.herokuapp.com/) :computer:
