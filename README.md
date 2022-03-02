@@ -41,9 +41,6 @@ Assume you have received a sample of DNA and you calculate the nucleotid chains 
 ### [Score Keeper](https://github.com/carlosesh/Lnk-Shortner) :soccer:
 An application which you can feed different participants and their respective rank according to their respective points. Pretty easy, was one of my first adventures in development.
 
-### [Galen Framework](https://github.com/carlosesh/JUnit-GalenFramework)
-This is just basically my playground to try different stuff related to testing frameworks.
-
 ## Programming Problems
 
 ### [Python](https://github.com/carlosesh/python_solutions)
