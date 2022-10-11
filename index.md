@@ -4,11 +4,11 @@ Hi dear Reader!
 
 I'm Carlos Sanchez and I'm very pleased that you landed on this page! 
 
-On the following couple of lines you'll find my personal achievements, past experience and personal projects (you can consider this a resume for the sake of simplicity.
+On the following couple of lines you'll find my personal achievements, past experience and personal projects. You can consider this a resume for the sake of simplicity.
 
 ## About me
 
-I'm a Software engineer in test with 6+ years of experience in developing test harness and applications from scratch.
+I'm a Software Engineer in Test with 6+ years of experience in developing test harness and applications from scratch.
 
 My professional achievements include:
 * Decreased the time spent running regression by 80% by adding automated test cases with just a click in the CI Job on Jekins with no human input needed; results upfront in a couple of minutes.
@@ -33,10 +33,10 @@ A web application written in python + flask + javascript. This application let's
 My own implementation of forensic image recovery, the only thing you need is the raw file from your card and it will recover every image that has been "deleted" in reality the image is not deleted, what happens is that those bits are not accessible any longer, so the next time you take photos it just overwrites those already occupied spaces in memory with your new image, but if you just deleted your photos and you want all of them back, just use my implementation from [here](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
 
 ### [Speller](https://github.com/carlosesh/cs50/tree/master/pset5/speller) :page_facing_up:
-An speller *(seriously?)* program which checks whole scripts, like a movie script that you wrote to present it to someone, or poem, or anything at all! Just give it some text and a bigger dictionary if you desire. and In a matter of seconds it will go through it all and tell you your mistakes.
+A speller *(seriously?)* program which checks whole scripts, like a movie script that you wrote to present it to someone, or poem, or anything at all! Just give it some text and a bigger dictionary if you desire. and In a matter of seconds it will go through it all and tell you your mistakes.
 
 ### [DNA checker](https://github.com/carlosesh/cs50/tree/master/pset6/dna) :syringe:
-Assume you have received a sample of DNA and you calculate the nucleotid chains contained in the dNA, once you have that you need to compare against a set of existing results to see if there's a match, well, this is doing that, this actually how forensics match your DNA against a existing data for any number of purposes.
+Assume you have received a sample of DNA and you calculate the nucleotid chains contained in the dNA. Once you have that, you need to compare against a set of existing results to see if there's a match. Well, this does exactly that; this is actually how forensics match your DNA against existing data for any number of purposes.
 
 ### [Score Keeper](https://github.com/carlosesh/Lnk-Shortner) :soccer:
 An application which you can feed different participants and their respective rank according to their respective points. Pretty easy, was one of my first adventures in development.
@@ -51,9 +51,13 @@ Here I post the solutions to problems I currently solve in python, just open it 
 
 ## Experience
 
+### GameChanger
+#### Senior Software Engineer in Test
+*April 2022 - Current*
+
 ### EPAM Systems Inc.
 #### Senior Software Engineer in Test
-*May 2018 - Current*
+*May 2018 - September 2022*
 
 ### EPAM Systems Inc. @Bridgewater Associates
 #### Senior Software Engineer in Test
