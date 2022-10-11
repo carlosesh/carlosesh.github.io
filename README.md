@@ -51,9 +51,13 @@ Here I post the solutions to problems I currently solve in python, just open it 
 
 ## Experience
 
+### GameChanger
+#### Senior Software Engineer in Test
+*April 2022 - Current*
+
 ### EPAM Systems Inc.
 #### Senior Software Engineer in Test
-*May 2018 - Current*
+*May 2018 - September 2022*
 
 ### EPAM Systems Inc. @Bridgewater Associates
 #### Senior Software Engineer in Test
