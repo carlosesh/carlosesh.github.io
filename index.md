@@ -20,6 +20,11 @@ My professional achievements include:
 
 ## Interesting Stuff I made!
 
+### [Playwright Demo Framework - E2E Testing Using Playwright](https://github.com/carlosesh/Playwright-TAF) :bulb:
+This automation framework contains some of the best practices to Test UI, in this case I'm testing a login workflow that creates a new account everytime, logs in and saves the logged in stated before the actual test suite executes, then it goes to the shop tab and validates all categories are visible. This test runs on 3 browsers parallely, this 3 being Crome, Firefox and Safari; at the end of the test execution it creates a report and uploads the artifacts to the CI and keeps the results for 30 days. All of this process is executed on pre and post submit (when you create a PR and after you merge your PR).
+
+The tech stack used here is TypeScript, Node, Playwright. 
+
 ### [FrameworkX - An skeleton for E2E Testing](https://github.com/carlosesh/FrameworkX) :fireworks:
 An Automation Framework, this automation framework contains some of the best practices to Test UI/API, in this case I'm testing an amazon workflow where I perform some actions, retrieve data using an api call and then publish the results as part of CI/CD process. Tools used: Java/Selenium/RestAssured/TestNg
 
