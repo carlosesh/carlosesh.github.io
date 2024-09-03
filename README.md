@@ -1,119 +1,87 @@
-# Welcome to my GitHub Page!
+# Welcome to My GitHub Page
 
-Hi dear Reader! 
+Hi, I'm Carlos Sanchez, a Software Engineer in Test with 6+ years of experience in creating test harnesses and applications. This page serves as my resume, highlighting my achievements, experience, and personal projects.
 
-I'm Carlos Sanchez and I'm very pleased that you landed on this page! 
+## About Me
 
-On the following couple of lines you'll find my personal achievements, past experience and personal projects. You can consider this a resume for the sake of simplicity.
-
-## About me
-
-I'm a Software Engineer in Test with 6+ years of experience in developing test harness and applications from scratch.
-
-My professional achievements include:
-* Decreased the time spent running regression by 80% by adding automated test cases with just a click in the CI Job on Jekins with no human input needed; results upfront in a couple of minutes.
-* Created various test harness for different teams. Found the best solution for each team, whether it was UI/API or any other sort of tests they needed, in order to achieve the testing of its applications.
-* Implemented CI/CD in various projects to monitor the health of our app, and to decrease running times and ensure no impact was made on the side of the application.
-* Improved project testing practices on what to do and what not to do from the testing side. 
-* Speaker in behalf for new technologies in the software development field.
-* Volunteer for evaluating skills and knowledge of new candidates (interviewer).
-
-## Interesting Stuff I made!
-
-### [Playwright Demo Framework - E2E Testing Using Playwright](https://github.com/carlosesh/Playwright-TAF) :bulb:
-This automation framework contains some of the best practices to Test UI, in this case I'm testing a login workflow that creates a new account everytime, logs in and saves the logged in stated before the actual test suite executes, then it goes to the shop tab and validates all categories are visible. This test runs on 3 browsers parallely, this 3 being Crome, Firefox and Safari; at the end of the test execution it creates a report and uploads the artifacts to the CI and keeps the results for 30 days. All of this process is executed on pre and post submit (when you create a PR and after you merge your PR).
-
-The tech stack used here is TypeScript, Node, Playwright. 
-
-### [FrameworkX - An skeleton for E2E Testing](https://github.com/carlosesh/FrameworkX) :fireworks:
-An Automation Framework, this automation framework contains some of the best practices to Test UI/API, in this case I'm testing an amazon workflow where I perform some actions, retrieve data using an api call and then publish the results as part of CI/CD process. Tools used: Java/Selenium/RestAssured/TestNg
-
-### [Link Shortener](https://less-lnk.herokuapp.com/) :computer:
-A web application written using Meteor, Mongo, Node and React -> this application is a link shrortener and will even count the times that you visited the link and if you share it with someone else, you will also know if they have visitied too as it tracks visits. [And the code for that app here!](https://github.com/carlosesh/Lnk-Shortner)
-
-### [Buy/Sell Stocks](https://github.com/carlosesh/finance) :dollar:
-A web application written in python + flask + javascript. This application let's you buy stocks and sell them with real time values, it will also store your transaction history!
-
-### [Forensic Image Recovery](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c) :mag:
-My own implementation of forensic image recovery, the only thing you need is the raw file from your card and it will recover every image that has been "deleted" in reality the image is not deleted, what happens is that those bits are not accessible any longer, so the next time you take photos it just overwrites those already occupied spaces in memory with your new image, but if you just deleted your photos and you want all of them back, just use my implementation from [here](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
-
-### [Speller](https://github.com/carlosesh/cs50/tree/master/pset5/speller) :page_facing_up:
-A speller *(seriously?)* program which checks whole scripts, like a movie script that you wrote to present it to someone, or poem, or anything at all! Just give it some text and a bigger dictionary if you desire. and In a matter of seconds it will go through it all and tell you your mistakes.
-
-### [DNA checker](https://github.com/carlosesh/cs50/tree/master/pset6/dna) :syringe:
-Assume you have received a sample of DNA and you calculate the nucleotid chains contained in the dNA. Once you have that, you need to compare against a set of existing results to see if there's a match. Well, this does exactly that; this is actually how forensics match your DNA against existing data for any number of purposes.
-
-### [Score Keeper](https://github.com/carlosesh/Lnk-Shortner) :soccer:
-An application which you can feed different participants and their respective rank according to their respective points. Pretty easy, was one of my first adventures in development.
-
-## Programming Problems
-
-### [Python](https://github.com/carlosesh/python_solutions)
-Here I post the solutions to problems I currently solve in python, just open it and look into it! I'm adding more every week, so far I have solved problems from
-* leetcode
-* codewars
-* edabit
+### Key Achievements:
+- **80% Reduction in Regression Time:** Automated CI Job in Jenkins, delivering results in minutes without human intervention.
+- **Custom Test Harnesses:** Developed solutions tailored to team needs, including UI and API testing.
+- **CI/CD Implementation:** Streamlined project health monitoring and optimized running times.
+- **Testing Best Practices:** Guided teams on effective testing strategies.
+- **Technology Advocate & Speaker:** Promoted new technologies in software development.
+- **Interviewer:** Assessed candidates' skills and knowledge.
 
 ## Experience
 
 ### GameChanger
-#### Senior Software Engineer in Test
-*April 2022 - Current*
+**Senior Software Engineer in Test**  
+*April 2022 - Present*
 
 ### EPAM Systems Inc.
-#### Senior Software Engineer in Test
+**Senior Software Engineer in Test**  
 *May 2018 - September 2022*
 
-### EPAM Systems Inc. @Bridgewater Associates
-#### Senior Software Engineer in Test
+#### @Bridgewater Associates
 *September 2020 - December 2021*
 
-### EPAM Systems Inc. @Mastercard
-#### Senior Software Engineer in Test
+#### @Mastercard
 *May 2018 - June 2020*
 
 ### Hexaware Technologies Inc.
-#### Software Developer Engineer in Test
+**Software Developer Engineer in Test**  
 *February 2017 - May 2018*
 
 ### Softtek
-#### Software Engineer in Test
+**Software Engineer in Test**  
 *May 2015 - January 2017*
 
+## Projects
+
+### [Playwright Demo Framework - E2E Testing](https://github.com/carlosesh/Playwright-TAF)
+An end-to-end testing framework using Playwright, TypeScript, and Node. Automates login, shop validation across Chrome, Firefox, and Safari, and integrates with CI/CD.
+
+### [FrameworkX - E2E Testing Skeleton](https://github.com/carlosesh/FrameworkX)
+A UI/API testing framework using Java, Selenium, RestAssured, and TestNG. Includes CI/CD integration for an Amazon workflow.
+
+### [Link Shortener](https://less-lnk.herokuapp.com/)
+A web app built with Meteor, Mongo, Node, and React that shortens links and tracks visit counts. [View the code](https://github.com/carlosesh/Lnk-Shortner).
+
+### [Buy/Sell Stocks](https://github.com/carlosesh/finance)
+A Python, Flask, and JavaScript app for real-time stock trading with transaction history.
+
+### [Forensic Image Recovery](https://github.com/carlosesh/cs50/blob/master/pset4/recover/recover.c)
+A C implementation that recovers deleted images from raw memory files.
+
+### [Speller](https://github.com/carlosesh/cs50/tree/master/pset5/speller)
+A program that checks text against a dictionary for spelling errors.
+
+### [DNA Checker](https://github.com/carlosesh/cs50/tree/master/pset6/dna)
+A tool to match DNA sequences against existing data for forensic analysis.
+
+### [Score Keeper](https://github.com/carlosesh/Lnk-Shortner)
+An app for ranking participants based on their scores.
+
+## Programming Challenges
+
+### [Python Solutions](https://github.com/carlosesh/python_solutions)
+My solutions to programming challenges from platforms like LeetCode, Codewars, and Edabit. Updated weekly.
+
 ## Tech Stack
-* Java
-* Javascript
-* Python
-* C
-* MySql
-* Sqlite
-* Flask
-* MongoDB
-* RestAssured
-* Selenium Webdriver
-* Cypress
-* Postman
-* Jenkins/Teamcity/Gerrit
+- **Languages:** Java, JavaScript, Python, C
+- **Databases:** MySQL, SQLite, MongoDB
+- **Tools:** Flask, RestAssured, Selenium, Cypress, Postman, Jenkins, TeamCity
 
-## Continuous learning :closed_book:
+## Continuous Learning
 
-* [Harvard CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-* [Data Structures and Algorithms by University of California San Diego National Research University Higher School of Economics.](https://www.coursera.org/specializations/data-structures-algorithms)
-* [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
-* [Jenkins Continuous Integration Bootcamp](https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/)
-* [Full Stack Web Apps with Meteor and React.](www.udemy.com)
-* [How to win coding competitions: secrets of champions (EDX & ITMO)](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champion)
-* [Selenium WebDriver with Java – Novice to Ninja + Interview.](https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j/)
-* [Appium (Selenium)-Mobile Automation Testing From Scratch.](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)
-* [Testing from the Inside: Unit Testing Edition.](https://testautomationu.applitools.com/unit-testing/) 
-* [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/)
-* [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/3NGWDZDF9CEN)
-* [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/6A4SCM38U3WY)
-* [Programming for Everybody (Getting Started with Python)](http://coursera.org/verify/J68N3BVPPNTY)
-* [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/Z3DMTQ33N5Q5)
-* [Jenkins in Docker: Slack Notifications & Build Monitor View](https://www.coursera.org/account/accomplishments/verify/DQF2SXGWND2S)
-* [Jenkins Pipeline: Declarative and IaC approaches for DevOps](https://www.coursera.org/account/accomplishments/verify/PE9R3W6UFKHT)
-* [Jenkins : Automating your delivery pipeline](https://www.coursera.org/account/accomplishments/verify/2EQNW7PR4E4B)
+Courses I've completed:
+- **CS50's Introduction to Computer Science** - Harvard
+- **Data Structures and Algorithms** - UC San Diego
+- **Docker Mastery** - Udemy
+- **Jenkins Continuous Integration Bootcamp** - Udemy
 
-## Contact :email:
-e-mail: carlosesh@outlook.com
+And more on various platforms including Coursera and Test Automation University.
+
+## Contact
+
+Email: carlosesh@outlook.com
